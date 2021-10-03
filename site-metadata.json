@@ -41,7 +41,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_anncmnt": true,
