@@ -338,7 +338,9 @@ seo:
       value: Watheia Labs
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Watheia Labs, LLC is a modern digital agency offering consulting
+        services in the Greater Northwest.
       keyName: property
     - name: 'og:image'
       value: images/AdobeStock_434934439.jpeg
