@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact Sales",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "primary",
                 "has_icon": false
