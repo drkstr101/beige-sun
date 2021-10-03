@@ -327,7 +327,9 @@ sections:
     background_color: secondary
 seo:
   title: Watheia Labs
-  description: The preview of the DIY theme
+  description: >-
+    Watheia Labs, LLC is a modern digital agency offering consulting services in
+    the Greater Northwest.
   extra:
     - name: 'og:type'
       value: website
