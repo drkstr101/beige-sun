@@ -3,7 +3,7 @@
     "style": "classic",
     "palette": "gray",
     "mode": "dark",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "images/classic/logo.svg",
