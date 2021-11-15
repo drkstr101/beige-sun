@@ -8,7 +8,7 @@ sections:
       Tell us a little about the problem you're facing and get a free Project
       Charter to get you started on the right foot.
     actions:
-      - label: Free Consulta
+      - label: Free Consultation
         url: /pricing
         style: primary
       - label: Learn More
