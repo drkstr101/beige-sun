@@ -5,8 +5,8 @@ sections:
     title: Hitting a roadblock with new technology?
     subtitle: Optional hero section subtitle
     content: >
-      Watheia is committed to being your partner in digital transformation and
-      technology modernization efforts.
+      Tell us a little about the problem you're facing and get a free Project
+      Charter to get you started on the right.
     actions:
       - label: Try Free
         url: /pricing
