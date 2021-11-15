@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Straitforward Pricing
-    subtitle: Optional hero section subtitle
+    subtitle: Our flexible pricing plans will meet your needs.
     align: center
     padding_top: large
     padding_bottom: small
