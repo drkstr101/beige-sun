@@ -99,10 +99,10 @@ sections:
         subtitle: >-
           Advance your career with personalized lesson plans and one-on-one
           training.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Watheia Labs provides hands-on experience with bleeding-edge
+          technology. Our lessons are all derived from real-world challenges
+          faced in the adoption of new technology.
         actions:
           - label: Learn More
             url: /style-guide
