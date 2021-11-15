@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Hitting a roadblock with new technology?
     subtitle: Optional hero section subtitle
     content: >
       Watheia is committed to being your partner in digital transformation and
