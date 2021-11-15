@@ -44,10 +44,7 @@ sections:
 
           *   Projects managed by us
         content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Speaker Fees
