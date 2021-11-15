@@ -79,10 +79,11 @@ sections:
         media_position: right
         media_width: fifty
       - title: Business Strategy Consulting
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We offer both tactical and strategic solutions to developing software
+          that works. Learn how we apply Lean Strategy to minimize risk and
+          recognize opportunities. Academia will teach one to build a thing
+          right. We will teach you how to build the right thing.
         actions:
           - label: Learn More
             url: /style-guide
