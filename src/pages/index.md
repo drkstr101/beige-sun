@@ -63,10 +63,10 @@ sections:
     features:
       - title: Custom Software Development
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our foundation is rooted in engineering and software development with
+          over 12 years of experience consulting for big-name clients such as
+          Google, Amazon Corporate, Expedia Group, and more.
         actions:
           - label: Learn More
             url: /style-guide
