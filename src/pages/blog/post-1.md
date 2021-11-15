@@ -3,7 +3,7 @@ title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
-date: '2020-04-16'
+date: "2020-04-16"
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
@@ -18,28 +18,28 @@ image_alt: Post 1 placeholder image
 image_position: right
 seo:
   title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
       keyName: property
-    - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    - name: "og:description"
+      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/classic/post-1.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
+    - name: "twitter:description"
+      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    - name: "twitter:image"
       value: images/classic/post-1.png
       relativeUrl: true
 template: post

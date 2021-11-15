@@ -75,7 +75,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: "You asked, we answered!"
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
@@ -117,26 +117,26 @@ seo:
   title: Pricing
   description: This is the pricing page
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Pricing
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the pricing page
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/about-3.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Pricing
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: This is the pricing page
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/about-3.jpg
       relativeUrl: true
 template: advanced
