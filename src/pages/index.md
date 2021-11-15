@@ -9,7 +9,7 @@ sections:
       Charter to get you started on the right foot.
     actions:
       - label: Get Started
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
