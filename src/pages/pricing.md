@@ -29,13 +29,13 @@ sections:
         subtitle: Fixed rate contracts broken up by project phase
         title_align: left
         content: >
-          ### Fixed Cost Contracts
+          ### [UCP](https://en.wikipedia.org/wiki/Use_case_points) Based Pricing
 
 
           Best for...
 
 
-          *   Greenfield or experimental projects 
+          *   Greenfield or experimental projects
 
           *   Prototype to test market fit
 
