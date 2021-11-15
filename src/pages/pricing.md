@@ -53,7 +53,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Speaker Fees
         subtitle: Optional subtitle
         title_align: left
         content: |-
