@@ -30,7 +30,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Fixed Rate Contracts
-        subtitle: Optional subtitle
+        subtitle: Fixed rate contracts per project phase
         title_align: left
         content: |-
           ---
