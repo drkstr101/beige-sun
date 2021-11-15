@@ -30,16 +30,21 @@ sections:
       - title: Fixed Rate Contracts
         subtitle: Fixed rate contracts broken up by project phase
         title_align: left
-        content: |
-          ### Deterministic B
+        content: >
+          ### Fixed Cost Contracts
 
-          per month, billed yearly
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
+          Best for...
+
+
+          *   Greenfield or experimental projects 
+
+          *   Prototype to test market fit
+
+          *   Projects without a clearly defined
+          [WBS](https://en.wikipedia.org/wiki/Work_breakdown_structure)
+
+          *   Projects managed by us
         content_align: left
         actions:
           - label: Start with Premium
