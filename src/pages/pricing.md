@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Staff Augmentation
+      - title: Hourly Rates
         subtitle: Hourly rate billed semi-monthly or preferred period
         title_align: left
         content: |+
