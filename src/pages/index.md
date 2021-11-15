@@ -5,8 +5,8 @@ sections:
     title: Hitting a roadblock with new technology?
     subtitle: We can help!
     content: >
-      Tell us a little about the problem you're facing \n and get a free Project
-      Charter to get you started \non the right foot.
+      Tell us a little about the problem you're facing \<br> and get a free
+      Project Charter to get you started \<br>on the right foot.
     actions:
       - label: Get Started
         url: /contact
