@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Engineering & Design Work
+      - title: Staff Augmentation / Consulting
         subtitle: Staff augmentation and freelance work
         title_align: left
         content: |
