@@ -205,10 +205,11 @@ sections:
         image_has_padding: true
       - title: Increase Customer Focus
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          A humanistic design process brings your customers to the forefront of
+          the development process. Paired with our highly skilled engineering
+          talent, we deliver products that provide the most significant impact
+          for our clients and their customers.
         content_align: left
         actions:
           - label: Learn More
