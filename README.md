@@ -39,11 +39,11 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 1.  Install npm dependencies:
 
-        yarn install
+        npm install
 
 1.  Start the Gatsby local development server:
 
-        yarn develop
+        npm run develop
 
 1.  Open [http://localhost:8000/](http://localhost:8000/) in the browser
 
