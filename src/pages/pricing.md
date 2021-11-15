@@ -63,10 +63,7 @@ sections:
           * Nisi cubilia interdum ultricies
           * Feugiat porta tortor
         content_align: left
-        actions:
-          - label: Start with Business
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
