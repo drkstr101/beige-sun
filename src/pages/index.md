@@ -96,7 +96,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Education & Training
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Personalized One-on-one
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
