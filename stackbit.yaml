@@ -1,7 +1,7 @@
 stackbitVersion: ~0.3.0
 ssgName: gatsby
 ssgVersion: "4.1.4"
-nodeVersion: "1"
+nodeVersion: "16.13.0"
 buildCommand: yarn build
 publishDir: public
 staticDir: static
