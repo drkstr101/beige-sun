@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Engineering & Design Work
-        subtitle: Optional subtitle
+        subtitle: Staff augmentation and
         title_align: left
         content: |-
           ---
