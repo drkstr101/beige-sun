@@ -24,7 +24,7 @@ sections:
     background_image: images/AdobeStock_434934439.jpeg
     image: images/icon-f9d82932.png
   - type: grid_section
-    title: Image Grid
+    title: Integrations
     subtitle: Grid Section Example
     align: center
     grid_items:
