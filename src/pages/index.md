@@ -23,7 +23,7 @@ sections:
     background_color: secondary
     background_image: images/AdobeStock_434934439.jpeg
     image: images/icon-f9d82932.png
-    background_image_opacity: 0.5
+    background_image_opacity: 35
   - type: grid_section
     title: Enterprise Ready
     subtitle: >-
