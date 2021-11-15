@@ -124,7 +124,7 @@ sections:
           and share the burden of bringing this plugin to its next stages:
           thanks [Watheia Labs] for your contributions, but above all, thanks
           for your enthusiasm and for reinvigorating the project!”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: '-- Robert Lo Giacco, Agileware Co-Founder'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
