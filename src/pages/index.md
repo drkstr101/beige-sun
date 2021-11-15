@@ -62,7 +62,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Custom Software Development
-        subtitle: 'Expert engineering '
+        subtitle: Expert engineering at a fixed cost
         content: >
           Our foundation is rooted in engineering and software development with
           over 12 years of experience consulting for big-name clients such as
