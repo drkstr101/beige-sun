@@ -25,7 +25,9 @@ sections:
     image: images/icon-f9d82932.png
   - type: grid_section
     title: Integrations
-    subtitle: Grid Section Example
+    subtitle: >-
+      We are a talented group of product builders on the cutting edge of
+      technology.
     align: center
     grid_items:
       - image: images/logo-1.svg
