@@ -28,6 +28,9 @@ module.exports = {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`
       }
-    }
+    },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`
   ]
 }

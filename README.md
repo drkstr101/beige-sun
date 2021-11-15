@@ -7,12 +7,12 @@ This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wi
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
 <details>
-        <summary>🎨 &nbsp;<strong>Look</strong></summary>
-        <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A documentation theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
-                </ul>
+<summary>🎨 &nbsp;<strong>Look</strong></summary>
+<ul>
+<li><a href="https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
+<li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A documentation theme</a></li>
+<li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
+</ul>
 </details>
 
 <details>
@@ -35,19 +35,19 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 ## Develop Locally
 
-1.  Install [Node.js and npm](https://nodejs.org/en/)
+1. Install [Node.js and npm](https://nodejs.org/en/)
 
-1.  Install npm dependencies:
+2. Install npm dependencies:
 
         npm install
 
-1.  Start the Gatsby local development server:
+3. Start the Gatsby local development server:
 
         npm run develop
 
-1.  Open [http://localhost:8000/](http://localhost:8000/) in the browser
+4. Open [http://localhost:8000/](http://localhost:8000/) in the browser
 
-1.  🎉
+5. 🎉
 
 ## Editing Content
 

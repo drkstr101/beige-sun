@@ -1,9 +1,9 @@
 ---
-title: Dianne Ameter
+title: Patrick Stevenson
 sections:
   - type: hero_section
-    title: Dianne Ameter
-    subtitle: The optional subtitle
+    title: Patrick Stevenson
+    subtitle: COO / Co-Founder
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: src/data/team/dianne-ameter.yaml
+    author: src/data/team/pstevenson.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Dianne Ameter
+  title: Posts by Patrick Stevenson
   description: This is the author archive page
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Posts by Dianne Ameter
+      value: Posts by Patrick Stevenson
       keyName: property
     - name: "og:description"
       value: This is the author archive page
@@ -61,7 +61,7 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Posts by Dianne Ameter
+      value: Posts by Patrick Stevenson
     - name: "twitter:description"
       value: This is the author archive page
     - name: "twitter:image"

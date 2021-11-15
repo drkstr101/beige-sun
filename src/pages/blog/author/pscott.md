@@ -1,8 +1,8 @@
 ---
-title: Hilary Ouse
+title: Patti Scott
 sections:
   - type: hero_section
-    title: Hilary Ouse
+    title: Patti Scott
     subtitle: The optional subtitle
     align: center
     padding_top: medium
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: src/data/team/hilary-ouse.yaml
+    author: src/data/team/pscott.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Hilary Ouse
+  title: Posts by Patti Scott
   description: This is the author archive page
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Posts by Hilary Ouse
+      value: Posts by Patti Scott
       keyName: property
     - name: "og:description"
       value: This is the author archive page
@@ -61,7 +61,7 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Posts by Hilary Ouse
+      value: Posts by Patti Scott
     - name: "twitter:description"
       value: This is the author archive page
     - name: "twitter:image"
