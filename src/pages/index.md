@@ -187,8 +187,8 @@ sections:
       - title: Deliver Features Faster
         title_align: center
         content: >
-          Break the web monolith! Develop and compose modular apps together in a
-          fast and scalable way, with an amazing dev experience at every step.
+          Disrupt the web monolith! Develop and compose modular apps together in
+          a fast and scalable way, with an amazing dev experience at every step.
         content_align: left
         actions:
           - label: Learn More
