@@ -120,8 +120,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “After many years an awesome developer has finally decided to step up
+          and share the burden of bringing this plugin to its next stages:
+          thanks [Watheia Labs] for your contributions, but above all, thanks
+          for your enthusiasm and for reinvigorating the project!”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
