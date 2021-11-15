@@ -20,8 +20,7 @@ sections:
     align: right
     padding_top: large
     padding_bottom: large
-    background_color: primary
-    background_image: images/AdobeStock_434934439.jpeg
+    background_color: secondary
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
