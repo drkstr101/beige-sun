@@ -59,7 +59,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Our Services
-    subtitle: Features Section Example
+    subtitle: How we provide value to our clients
     features:
       - title: Custom Software Development
         subtitle: Expert engineers and designers at your service
