@@ -12,17 +12,16 @@ sections:
       - title: Engineering & Design Work
         subtitle: Staff augmentation and freelance work
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $75hr - $150hr
 
-          per month, billed yearly
+          Best for...
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Projects managed in-house or by 3rd party
+          *   Projects with clearly defined tasks or WBS
+          *   Maintenance on existing products
         content_align: left
         actions:
           - label: Start with Personal
