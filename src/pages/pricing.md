@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Engineering & Design Work
-        subtitle: Staff augmentation and
+        subtitle: Staff augmentation and freelance work
         title_align: left
         content: |-
           ---
