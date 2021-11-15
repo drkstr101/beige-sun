@@ -14,13 +14,15 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
+    image: images/icon.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
-    align: right
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image: images/AdobeStock_434934439.jpeg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
