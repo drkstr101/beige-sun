@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hitting a roadblock with new technology?
-    subtitle: Optional hero section subtitle
+    subtitle: We can help!
     content: >
       Tell us a little about the problem you're facing and get a free Project
       Charter to get you started on the right.
