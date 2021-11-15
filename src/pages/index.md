@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Watheia is committed to being your partner in digital transformation and
+      technology modernization efforts.
     actions:
       - label: Try Free
         url: /pricing
