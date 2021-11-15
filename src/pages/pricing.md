@@ -13,8 +13,6 @@ sections:
         subtitle: Hourly rate billed semi-monthly or preferred period
         title_align: left
         content: |
-          ***
-
           ### $75hr - $150hr
 
           Best for...
