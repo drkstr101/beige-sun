@@ -6,7 +6,7 @@ sections:
     subtitle: We can help!
     content: >
       Tell us a little about the problem you're facing and get a free Project
-      Charter to get you started on the right.
+      Charter to get you started on the right foot.
     actions:
       - label: Try Free
         url: /pricing
