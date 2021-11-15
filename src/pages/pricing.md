@@ -25,7 +25,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: Fixed Rate Contracts
+      - title: Fixed Rates
         subtitle: Fixed rate contracts broken up by project phase
         title_align: left
         content: >
