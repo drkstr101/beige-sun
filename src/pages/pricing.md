@@ -12,7 +12,7 @@ sections:
       - title: Staff Augmentation / Consulting
         subtitle: Hourly rate billed semi-monthly or preferred period
         title_align: left
-        content: |
+        content: |+
           ### $75hr - $150hr
 
           Best for...
@@ -20,6 +20,7 @@ sections:
           *   Projects managed in-house or by 3rd party
           *   Projects with clearly defined tasks or WBS
           *   Maintenance on existing products
+
         content_align: left
         actions:
           - label: Start with Personal
