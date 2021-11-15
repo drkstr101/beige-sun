@@ -24,7 +24,7 @@ sections:
     background_image: images/AdobeStock_434934439.jpeg
     image: images/icon-f9d82932.png
   - type: grid_section
-    title: Integrations
+    title: Enterprise Ready
     subtitle: >-
       We are a talented group of product builders on the cutting edge of
       technology.
