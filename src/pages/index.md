@@ -186,10 +186,9 @@ sections:
     grid_items:
       - title: Deliver Features Faster
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Break the web monolith! Develop and compose modular apps together in a
+          fast and scalable way, with an amazing dev experience at every step.
         content_align: left
         actions:
           - label: Learn More
