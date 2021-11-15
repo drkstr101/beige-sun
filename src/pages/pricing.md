@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Staff Augmentation / Consulting
-        subtitle: Staff augmentation and freelance work
+        subtitle: Hourly rate billed semi-monthly or preferred period
         title_align: left
         content: |
           ***
