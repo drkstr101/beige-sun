@@ -314,14 +314,13 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Special offer for Washington State non-profits!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Get a professionally designed and fully accessible website
+      for your brand and a year of hosting on the house.
     actions:
-      - label: Button
-        url: /pricing
+      - label: Contact Us
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
@@ -354,9 +353,9 @@ seo:
     - name: "twitter:title"
       value: Stackbit DIY Theme
     - name: "twitter:description"
-      value: The preview of the DIY theme
+      value: We build micro frontends!
     - name: "twitter:image"
-      value: images/diy-preview.png
+      value: https://cdn.watheia.org/assets/wa-card.png
       relativeUrl: true
 template: advanced
 ---
