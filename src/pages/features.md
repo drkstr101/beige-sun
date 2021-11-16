@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Micro News
-        subtitle: Gatsby Hacker News clone with topic of interest controls
+        subtitle: Gatsby Hacker News clone with topic of interest driven by GPT-3
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
