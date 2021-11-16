@@ -246,21 +246,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: Special offer for new businesses in Eastern Washignton!
-    content: >-
-      Start your brand off strong with a professionally designed website and a
-      year of hosting on the house.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
