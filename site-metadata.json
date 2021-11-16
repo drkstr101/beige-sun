@@ -1,158 +1,168 @@
 {
-  "layout_type": "full-width",
-  "style": "classic",
-  "palette": "green",
-  "mode": "dark",
-  "base_font": "sans-serif",
-  "header": {
-    "title": "drkstr101",
-    "logo": "images/logo-alt.png",
-    "logo_alt": "Watheia logo",
-    "has_primary_nav": true,
-    "primary_nav_links": [
-      {
-        "label": "Showcase",
-        "url": "/features",
-        "style": "link"
-      },
-      {
-        "label": "Pricing",
-        "url": "/pricing",
-        "style": "link"
-      },
-      {
-        "label": "About",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "label": "Blog",
-        "url": "/blog",
-        "style": "link"
-      },
-      {
-        "label": "Design Guide",
-        "url": "/style-guide",
-        "style": "link"
-      }
-    ],
-    "has_secondary_nav": true,
-    "secondary_nav_links": [
-      {
-        "label": "Contact",
-        "url": "/contact",
-        "style": "primary",
-        "has_icon": false
-      }
-    ],
-    "has_anncmnt": true,
-    "anncmnt_content": "We value transparency and openness. Our business plan is published quarterly under the Creative Commons license. [Learn more →](https://gitlab.com/watheia).\n",
-    "anncmnt_align": "left",
-    "anncmnt_is_home_only": true,
-    "anncmnt_has_close": true,
-    "anncmnt_id": "new-features"
-  },
-  "footer": {
-    "logo": "images/logo-alt-fc609761.png",
-    "logo_alt": "DIY logo",
-    "has_primary_nav": true,
-    "primary_nav_title": "Company",
-    "primary_nav_links": [
-      {
-        "label": "About",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide",
-        "style": "link"
-      }
-    ],
-    "has_secondary_nav": true,
-    "secondary_nav_title": "Blog",
-    "secondary_nav_links": [
-      {
-        "label": "News",
-        "url": "/blog/category/news",
-        "style": "link"
-      },
-      {
-        "label": "General",
-        "url": "/blog/category/general",
-        "style": "link"
-      },
-      {
-        "label": "Tutorials",
-        "url": "/blog/category/tutorials",
-        "style": "link"
-      }
-    ],
-    "has_tertiary_nav": true,
-    "tertiary_nav_title": "Legal",
-    "tertiary_nav_links": [
-      {
-        "label": "Terms & Conditions",
-        "url": "/terms-conditions",
-        "style": "link"
-      },
-      {
-        "label": "Privacy Policy",
-        "url": "/terms-conditions",
-        "style": "link"
-      }
-    ],
-    "has_social": true,
-    "social_links": [
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "twitter",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "github",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "linkedin",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "youtube",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "label": "Vimeo",
-        "url": "https://vimeo.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "vimeo",
-        "icon_position": "center",
-        "new_window": true
-      }
-    ],
-    "content": "&copy; Watheia Labs, LLC. All rights reserved. "
-  },
-  "title": "Watheia Labs",
-  "domain": "https://watheia.app",
-  "favicon": "images/icon.png"
+    "layout_type": "full-width",
+    "style": "classic",
+    "palette": "green",
+    "mode": "dark",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "drkstr101",
+        "logo": "images/logo-alt.png",
+        "logo_alt": "Watheia logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Showcase",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Design Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "primary",
+                "has_icon": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "has_anncmnt": true,
+        "anncmnt_content": "We value transparency and openness. Our business plan is published quarterly under the Creative Commons license. [Learn more →](https://gitlab.com/watheia).\n",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": true,
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-features"
+    },
+    "footer": {
+        "logo": "images/logo-alt-fc609761.png",
+        "logo_alt": "DIY logo",
+        "has_primary_nav": true,
+        "primary_nav_title": "Company",
+        "primary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "General",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "Legal",
+        "tertiary_nav_links": [
+            {
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/terms-conditions",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Vimeo",
+                "url": "https://vimeo.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "vimeo",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; Watheia Labs, LLC. All rights reserved. "
+    },
+    "title": "Watheia Labs",
+    "domain": "https://watheia.app",
+    "favicon": "images/icon.png"
 }
