@@ -8,7 +8,7 @@ sections:
       Tell us about the problem you're facing and get a free consultation
       complete with Project Charter.
     actions:
-      - label: Contact Sales
+      - label: Contact Us
         url: /contact
         style: primary
       - label: Learn More
