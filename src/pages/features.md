@@ -46,7 +46,7 @@ sections:
     title: Special offer for Washington State based non-profits
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: Compare Plans
+      - label: Contact Us
         url: /pricing
         style: primary
     actions_position: right
