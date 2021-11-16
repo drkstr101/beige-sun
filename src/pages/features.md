@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Microbase.dev
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Entity modeling workspace using Eclipse Theia and EMF.cloud.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
