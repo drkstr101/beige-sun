@@ -7,8 +7,8 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
-        subtitle: "Odio et tortor laoreet, sed interdum augue ornare. "
+      - title: Micro News
+        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Section Title Two
-        subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -31,7 +31,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Section Title Three
-        subtitle: "Donec nisl ligula, cursus id molestie vel. "
+        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -176,26 +176,26 @@ seo:
   title: Features
   description: This is the features page
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Features
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: This is the features page
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/about-3.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Features
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: This is the features page
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
 template: advanced
