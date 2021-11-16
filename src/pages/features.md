@@ -18,7 +18,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Microbase.dev
-        subtitle: Entity modeling in the cloud using Eclipse Theia and EMF.cloud.
+        subtitle: Entity modeling in the cloud using Eclipse Theia.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
