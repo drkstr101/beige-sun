@@ -1,4 +1,4 @@
-.PHONY: clean test lint build
+.PHONY: clean test lint build optimize
 
 SHELL := /bin/bash
 PATH := ./node_modules/.bin:$(PATH)
@@ -83,8 +83,12 @@ publish-nightly: build
 	yarn publish:nightly
 
 build:
-	npm run build
-	# parcel build packages/@react-{spectrum,aria,stately}/*/ packages/@internationalized/*/ --no-minify
+	NODE_ENV=production npx gatsby build --prefixPaths --verbose
+	$(MAKE) optimize
+
+optimize:
+	node scripts/optimize.js
+	# node scripts/brotli.js
 
 website:
 	# yarn build:docs --public-url /reactspectrum/$$(git rev-parse HEAD)/docs --dist-dir dist/$$(git rev-parse HEAD)/docs
