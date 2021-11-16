@@ -31,7 +31,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Auto-DevOps.com
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Automated end-to-end DevOps for component driven software
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
