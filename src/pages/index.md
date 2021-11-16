@@ -5,10 +5,10 @@ sections:
     title: Hitting a roadblock with new technology?
     subtitle: We can help!
     content: >
-      Tell us a little about the problem you're facing and get a free
-      consultation complete with Project Charter.
+      Tell us about the problem you're facing and get a free consultation
+      complete with Project Charter.
     actions:
-      - label: Contact Sales
+      - label: Contact Us
         url: /contact
         style: primary
       - label: Learn More
@@ -124,7 +124,7 @@ sections:
           and share the burden of bringing this plugin to its next stages:
           thanks [Watheia Labs] for your contributions, but above all, thanks
           for your enthusiasm and for reinvigorating the project!”
-        subtitle: "-- Robert Lo Giacco, Agileware Co-Founder"
+        subtitle: '-- Robert Lo Giacco, Agileware Co-Founder'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
@@ -178,7 +178,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Case Studies
-    subtitle: Our insights in business, technlogy, design and more.
+    subtitle: 'Our insights in business, technlogy, design and more.'
     grid_items:
       - title: Deliver Features Faster
         title_align: center
@@ -246,52 +246,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: cta_section
-    title: Special offer for new businesses in Eastern Washignton!
-    content: >-
-      Start your brand off strong with a professionally designed
-      website and a year of hosting on the house.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-  # - type: grid_section
-  #   title: Team Section
-  #   subtitle: Grid Section Example
-  #   actions:
-  #     - label: Join the team
-  #       url: /style-guide
-  #       style: primary
-  #   grid_items:
-  #     - title: Aaron R Miller
-  #       subtitle: Co-Founder & CEO
-  #       title_align: center
-  #       image: images/amiller.jpg
-  #       image_position: top
-  #     - title: Dianne Ameter
-  #       subtitle: Software Engineer
-  #       title_align: center
-  #       image: images/dianne-ameter.jpg
-  #       image_position: top
-  #     - title: Patrick Stevenson
-  #       subtitle: Developer Advocate
-  #       title_align: center
-  #       image: images/pstevenson.jpg
-  #       image_position: top
-  #     - title: Patti Scott
-  #       subtitle: Operations Manager
-  #       title_align: center
-  #       image: images/pscott.jpg
-  #       image_position: top
-  #   grid_cols: four
-  #   align: center
-  #   background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -316,8 +270,8 @@ sections:
   - type: cta_section
     title: Special offer for Washington State non-profits!
     content: >-
-      Get a professionally designed and fully accessible website
-      for your brand and a year of hosting on the house.
+      Get a professionally designed and fully accessible website for your brand
+      and a year of hosting on the house.
     actions:
       - label: Contact Us
         url: /contact
@@ -333,29 +287,29 @@ seo:
     Watheia Labs, LLC is a modern digital agency offering consulting services in
     the Greater Northwest.
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Watheia Labs
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: >-
         Watheia Labs, LLC is a modern digital agency offering consulting
         services in the Greater Northwest.
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/AdobeStock_434934439.jpeg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Stackbit DIY Theme
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: We build micro frontends!
-    - name: "twitter:image"
-      value: https://cdn.watheia.org/assets/wa-card.png
+    - name: 'twitter:image'
+      value: 'https://cdn.watheia.org/assets/wa-card.png'
       relativeUrl: true
 template: advanced
 ---
