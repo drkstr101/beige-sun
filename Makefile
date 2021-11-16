@@ -88,7 +88,7 @@ build:
 
 optimize:
 	node scripts/optimize.js
-	# node scripts/brotli.js
+	node scripts/brotli.js
 
 website:
 	# yarn build:docs --public-url /reactspectrum/$$(git rev-parse HEAD)/docs --dist-dir dist/$$(git rev-parse HEAD)/docs

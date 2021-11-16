@@ -12,10 +12,10 @@
 
 const fs = require("fs")
 const glob = require("fast-glob")
-// const PQueue = require("p-queue").default
 const zlib = require("zlib")
 
-const PQueue = async (...args) =>
+// const PQueue = require("p-queue").default
+const pqueue = async (...args) =>
   import("p-queue").then(({ default: PQueue }) => new PQueue(...args))
 
 function compress(file) {
@@ -30,8 +30,8 @@ function compress(file) {
 
 async function run() {
   const files = glob.sync("public/**.{js,css,html,map}")
+  const queue = await pqueue({ concurrency: 10 })
 
-  let queue = PQueue({ concurrency: 10 })
   for (let file of files) {
     queue.add(() => compress(file))
   }
