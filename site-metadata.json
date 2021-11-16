@@ -46,7 +46,7 @@
             },
             {
                 "label": "[login]",
-                "url": "#",
+                "url": "/auth",
                 "style": "secondary",
                 "has_icon": false,
                 "icon": "arrow-left",
