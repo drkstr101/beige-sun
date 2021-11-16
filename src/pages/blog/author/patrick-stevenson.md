@@ -1,8 +1,8 @@
 ---
-title: Patti Scott
+title: Patrick S Stevenson
 sections:
   - type: hero_section
-    title: Patti Scott
+    title: Patrick S Stevenson
     subtitle: The optional subtitle
     align: center
     padding_top: medium
@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: src/data/team/pscott.yaml
+    author: src/data/team/patrick-stevenson.yaml
     show_date: true
     show_categories: true
     show_author: true
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts by Patti Scott
+  title: Posts by Patrick S Stevenson
   description: This is the author archive page
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Posts by Patti Scott
+      value: Posts by Patrick S Stevenson
       keyName: property
     - name: "og:description"
       value: This is the author archive page
@@ -61,7 +61,7 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Posts by Patti Scott
+      value: Posts by Patrick S Stevenson
     - name: "twitter:description"
       value: This is the author archive page
     - name: "twitter:image"

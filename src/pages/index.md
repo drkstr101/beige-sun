@@ -139,7 +139,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
-
           **Hanson Deck,** *App Developer, Studio*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
@@ -148,7 +147,6 @@ sections:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
-
 
           **Miles Tone,** *CEO, Studio*
         image: images/miles-tone.png
@@ -159,7 +157,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
 
-
           **Eleanor Carr,** *CTO, Studio*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
@@ -168,7 +165,6 @@ sections:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
-
 
           **Gordon Norman,** *Web Designer, Studio*
         image: images/gordon-norman.png
@@ -182,7 +178,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Case Studies
-    subtitle: Grid Section Example
+    subtitle: Our insights in business, technlogy, design and more.
     grid_items:
       - title: Deliver Features Faster
         title_align: center
@@ -251,11 +247,10 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Special offer for new businesses in Eastern Washignton!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Start your brand off strong with a professionally designed
+      website and a year of hosting on the house.
     actions:
       - label: Learn More
         url: /features
