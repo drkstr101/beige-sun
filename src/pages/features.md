@@ -47,7 +47,7 @@ sections:
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Contact Us
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: right
     align: left
