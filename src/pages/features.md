@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Showcase
-    subtitle: Features Page Demo
+    subtitle: We are proud makers and builders
     background_color: primary
   - type: features_section
     features:
