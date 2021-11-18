@@ -428,7 +428,7 @@ us:
 
 - By email: admin@watheia.org
 
-- By visiting this page on our website: <https://watheialabs.com/contact>
+- By visiting this page on our website: <https://watheia.app/contact>
 
 - By phone number: +1 (866) 790 2399
 
