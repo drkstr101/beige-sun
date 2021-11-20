@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@graphql-tools/url-loader": "^7.5.2",
+    "@sendgrid/mail": "^7.6.0",
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "@vercel/node": "^1.12.1",
     "autoprefixer": "^10.4.0",

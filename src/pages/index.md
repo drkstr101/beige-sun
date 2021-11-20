@@ -5,8 +5,7 @@ sections:
     title: Hitting a roadblock with new technology?
     subtitle: We can help!
     content: >
-      Tell us about the problem you're facing and get a free consultation
-      complete with Project Charter.
+      Tell us about the problem you're facing and get a free consultation complete with Project Charter.
     actions:
       - label: Contact Us
         url: /contact
@@ -120,10 +119,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “After many years an awesome developer has finally decided to step up
+          "After many years an awesome developer has finally decided to step up
           and share the burden of bringing this plugin to its next stages:
           thanks [Watheia Labs] for your contributions, but above all, thanks
-          for your enthusiasm and for reinvigorating the project!”
+          for your enthusiasm and for reinvigorating the project!"
         subtitle: '-- Robert Lo Giacco, Agileware Co-Founder'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines

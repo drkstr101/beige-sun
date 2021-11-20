@@ -27,7 +27,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: contact-form
-    form_action: /thank-you
+    form_action: /api/contact
     form_fields:
       - input_type: text
         name: name
@@ -44,8 +44,8 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
+          - Consulting
+          - Training
           - Other
       - input_type: textarea
         name: message
